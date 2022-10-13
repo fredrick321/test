@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fredrick321
+- 👋 Hi, I’m @fredrick
 - 👀 I’m interested in infosec && opsec
 - 🌱 I’m currently learning cyber security
 - 💞️ I’m looking to collaborate on opensource 

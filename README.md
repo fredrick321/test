@@ -2,7 +2,6 @@
 - 👀 I’m interested in infosec && opsec
 - 🌱 I’m currently learning cyber security
 - 💞️ I’m looking to collaborate on opensource 
-- 📫 How to reach me https://t.me/sunofTG
 
 <!---
 fredrick321/fredrick321 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
